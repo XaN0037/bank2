@@ -4,3 +4,4 @@ print("voaleykum assalom dunyo")
 
 
 print("aksufhbsnv")
+print("'o'zgartirildi")
